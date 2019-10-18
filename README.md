@@ -19,6 +19,7 @@ At the time of joining, the HR potrays the company like it is match made in Heav
 | 10 | Usually help half or whole financially for IT events and certifications?|
 | 11 | Can you describe the culture of the company?|
 | 12 | How easily the upper management is approachable for suggestion or queries?|
+| 13 | Irrespective of our designation how flexible is the organization to the suggestions and the queries raised?|
 
 ## 🤝 Contributing [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
